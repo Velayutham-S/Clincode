@@ -1,0 +1,6 @@
+psycopg[binary]==3.1.19
+redis==5.0.7
+spacy==3.7.5
+scispacy==0.5.4
+pyyaml==6.0.1
+python-dotenv==1.0.1
